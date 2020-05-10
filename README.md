@@ -43,7 +43,7 @@ Project will produce a time-series chart to display 3 different plot of total nu
 8. Save the animator object in the form of GIF format file.
 
 ## Expected Output:
- ![Covid-19_Timeseries chart](https://github.com/jitpavi/Time-Series-tracker-of-Covid-19-cases-in-INDIA/blob/master/Covid-19_Timeseries.gif)
+ ![Covid-19_Timeseries chart](https://github.com/jitpavi/Time-Series-tracker--COVID-19-cases-in-INDIA/blob/master/Covid-19_Timeseries.gif)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Covid-19 Cases in India_TimeSeries Tracker.py](https://github.com/jitpavi/Time-Series-tracker-of-Covid-19-cases-in-INDIA/blob/master/Covid-19%20Cases%20in%20India_TimeSeries%20Tracker.py)
